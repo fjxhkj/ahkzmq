@@ -1,6 +1,10 @@
 # ahkzmq
 ahkzmq is an AutoHotkey_L wrapper for zeromq.
 
+## urls
+https://autohotkey.com/board/topic/79218-zeromq-class/
+https://github.com/tinku99/ahkzmq
+
 ## zeromq
 zeromq is a socket library that:
 
